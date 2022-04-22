@@ -46,7 +46,7 @@ class Loginuser
 			
 			if(flag == 1)
 			{
-				System.out.println("1. Display details \n 2. Show balance \n 3. Transfer Amount \n");
+				System.out.println("1. Create details \n 2. Show balance \n 3. Transfer Amount \n");
 				System.out.println("Select the option");
 				int op = sc.nextInt();
 				if(op == 1)
